@@ -47,7 +47,7 @@
 
 ![alt text][grapth]
 
-[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_2.png "Graph"
+[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_2.png "Graph1"
 2.  За допомогою лабораторного макету побудувати випадковий неорієнтований граф `G={7,15}` та записати його матрицю суміжності.
 
 
@@ -62,7 +62,7 @@
 
 ![alt text][grapth]
 
-[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_3.png "Graph"
+[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_3.png "Graph2"
       2.1 Як зміниться топологія графа (структурні зв’язки), якщо циклічно зсунуту вправо 2 стовпці у матриці суміжностей?
 
       Більшість ребер стануть напрямленими і деякі нові будуть виходити з вершини і входити в неї ж.
@@ -77,7 +77,7 @@
 
 ![alt text][grapth]
 
-[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_4.png "Graph"
+[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_4.png "Graph3"
       2.2 Як зміниться топологія графа (структурні зв’язки), *а)* Якщо всі елементи над діагоналлю перетворити в 1? *б)* Якщо всі елементи під діагоналлю перетворити в 0?
 
 
@@ -94,7 +94,7 @@
 
 ![alt text][grapth]
 
-[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_5.png "Graph"
+[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_5.png "Graph4"
 
       б. 6 вершина стане Глухим кутом а з 0 вершини можна буде тільки вийти але назад не повернутись
 
@@ -108,7 +108,7 @@
 
 ![alt text][grapth]
 
-[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_6.png "Graph"
+[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_6.png "Graph5"
 3.  За допомогою лабораторного макету побудувати випадковий орієнтований граф `G={5,10}` та записати його матрицю відповідностей (інцедентності).
 
       1, 1, 1, 1, 0, 0, 0, 0, 0, 0
@@ -121,7 +121,7 @@
 
 ![alt text][grapth]
 
-[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_7.png "Graph"    
+[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_7.png "Graph6"    
       3.1 Як з матриці відповідностей можна визначити ступінь кожної вершини?
 
       Ступінь вершини визначається кількістю одиничок у рядку матриці.
