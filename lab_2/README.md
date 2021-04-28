@@ -16,7 +16,7 @@
 
    ![alt text][grapth]
 
-[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_1.png "Graph"
+[grapth]: https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_2/screan/Screenshot_1.png "Graph0"
 
 
       1.1. Чи є у побудованому графі ізольовані вершини або незв’язні компоненти? *Tак* - назвіть їх; *Hі* - які ребра потрібно видалити щоб вони утворились?
