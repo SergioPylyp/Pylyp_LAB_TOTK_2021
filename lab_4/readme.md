@@ -7,7 +7,7 @@
 
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований зважений граф з `V=6` та `E=10` 
 
-![image]https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_4/screen/1.png()
+![image](https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_4/screen/1.png)
 
 
 Побудувати дерево шляхів з вершини `N` за алгоритмом Дейкстри
