@@ -7,18 +7,18 @@
 
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований зважений граф з `V=6` та `E=10` 
 
-![image]()
+![image]https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_4/screen/1.png()
 
 
 Побудувати дерево шляхів з вершини `N` за алгоритмом Дейкстри
 
-![image]()
+![image](https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_4/screen/2.png)
 
-![image]()
+![image](https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_4/screen/2_1.png)
 
 2. Для того ж графа побудувати дерево шляхів з вершини `N` за алгоритмом Беллмана-Форда;
 
-![image]()
+![image](https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab_4/screen/3.png)
 
 
 3. Вказати який з алгоритмів виконується швидше:
