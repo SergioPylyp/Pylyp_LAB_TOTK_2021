@@ -12,9 +12,9 @@
 
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований зважений граф `G={8,10}`.
 
-   ![image]()
+   ![image](https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab5/screen/1.png)
 
-   ![image]()
+   ![image](https://github.com/SergioPylyp/Pylyp_LAB_TOTK_2021/blob/main/lab5/screen/2.png)
 
 2. Знайти шлях (вказати послідовність ребер) з максимальною пропускною здатністю (вказати якою) між вузлами `i` та `j` (`i` - вершина витоку (початкова); `j` - вершина стоку (кінцева)). 
          
